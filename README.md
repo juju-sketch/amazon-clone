@@ -1,4 +1,4 @@
-Author- Samriddha Shrestha
+<p> Author- Samriddha Shrestha
 
 'Amazon Clone' is a simple look-alike of the popular application - Amazon made by using basic HTML and CSS tags. 
 The main tags used in this repo are as follows: 
@@ -26,4 +26,4 @@ CSS properties of the following are also used:
 5. background-color:xyz
 6. border properties
 
-Thanks for viewing the repo! :)
+Thanks for viewing the repo! :) </p>
