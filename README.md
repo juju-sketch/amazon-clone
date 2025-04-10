@@ -3,16 +3,16 @@
 'Amazon Clone' is a simple look-alike of the popular application - Amazon made by using basic HTML and CSS tags. 
 The main tags used in this repo are as follows: 
 
-1. <html> </html>
-2. <header></header>
-3. <body> </body>
-4. <a> </a>
-5. <p> </p>
-6. <h3> </h3>
-7. <link rel="" href="">
-8. <select>
-9. <ul>
-10. <option>
+1. html
+2. header
+3. body
+4. a
+5. p (paragraph)
+6. h3
+7. link rel
+8. select
+9. ul
+10. option
 
 
 CSS properties of the following are also used:
